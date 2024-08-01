@@ -8,5 +8,6 @@
 <body>
     <h1>Hello world</h1>
     <p><a href="ftp.php">Test FTP</a></p>
+    <p><a href="info.php">Info PHP</a></p>
 </body>
 </html>
